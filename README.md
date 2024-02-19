@@ -4,7 +4,14 @@
 - 👀 I’m interested in software development, artificial intelligence, and data science.<br/>
 - 🌱 I’m currently learning React.js, improving my skills in Django a Python Framework, SpringBoot, and Node js.<br/>
 - 💞️ I’m looking to collaborate on open-source projects related to Mobile or web development.<br/>
-- 📫 You can reach me via email at xalmonoyefule@gmail.com or connect with me on LinkedIn [[here](https://www.linkedin.com/in/solomon-oyefule-1a09a3297/)]<br/>
+- 📫 You can reach me via email at <a href="https://www.gmail.com/xalmonoyefule/">
+    <img src="https://gmail-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+</a>
+ or connect with me on LinkedIn 
+  <a href="https://www.linkedin.com/in/solomon-oyefule-1a09a3297/">
+    <img src="https://linkIn-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+</a>
+<br/>
 - 😄 Pronouns: He/Him<br/>
 - ⚡ Fun fact: I love to travel and explore new cultures, I read for recreation and I love Animation too.<br/>
 </div>
