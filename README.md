@@ -163,7 +163,7 @@
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
 
-# Reach out to me #
+<!--# Reach out to me #
 <a href="mailto:xalmonoyefule@gmail.com"><img src="./assets/gmail.png" alt="Gmail" height="50" title="Send mail"></a>
 <a href="https://t.me/princegoblintech"><img src="./assets/telegram.webp" alt="Telegram" height="50" title="Send message"></a>
 <!--<a href="https://github.com/OldCodersClub"><img src="./assets/oldcodersclub.png" alt="OldCodersClub" height="50" title="Olde Coders"></a>
