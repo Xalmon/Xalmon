@@ -168,10 +168,10 @@
 <a href="https://t.me/princegoblintech"><img src="./assets/telegram.webp" alt="Telegram" height="50" title="Send message"></a>
 <!--<a href="https://github.com/OldCodersClub"><img src="./assets/oldcodersclub.png" alt="OldCodersClub" height="50" title="Olde Coders"></a>
 <a href="https://github.com/DroidDump"><img src="./assets/droiddump.png" alt="Droid Dump" height="50" title="Android projects"></a>
-<a href="https://github.com/LessonDump"><img src="./assets/lessondump.png" alt="LessonDump" height="50" title="Lesson Dump"></a>
+<a href="https://github.com/LessonDump"><img src="./assets/lessondump.png" alt="LessonDump" height="50" title="Lesson Dump"></a>-->
 
 
-To comtact me.
+<!--To comtact me.
 xalmonoyefule@gmail.com
 
 ![](https://github.com/seniorcoder72/seniorcoder72.github.io/blob/master/screenshots/screenshot.gif?raw=true)
@@ -185,10 +185,8 @@ xalmonoyefule@gmail.com
   - [Rapidfire](#rapidfire)
   - [Languages and Tools](#languages-and-tools)
 - [📊 GitHub Stats:](#-github-stats)
-    - [🏆 GitHub Trophies](#-github-trophies)
+    - [🏆 GitHub Trophies](#-github-trophies)-->
     <!--- [✍️ Random Dev Quote](#️-random-dev-quote)-->
-    - [🔝 Top Contributed Repo](#-top-contributed-repo)
-    - [😂 Random Dev Meme](#-random-dev-meme)-->
  <!--[Do you want to see my past work?](#do-you-want-to-see-my-past-work)
 
     </td>
@@ -227,11 +225,11 @@ xalmonoyefule@gmail.com
        
 ✨ Preferred Python frameworks   ✔Python, ✔Django, ✔Flask
           
-✨ Preferred JS frameworks   ✔TypeScript, ✔Next.js, Nuxt.js, ✔React.js, ✔Vue.js
+✨ Preferred JS frameworks   ✔TypeScript, ✔Next.js, Nord.js, ✔React.js, ✔Vue.js
          
 ✨ Preferred style frameworks    ✔Tailwind CSS, ✔Bootstrap, ✔Material-UI
          
-✨ Database options   ✔MongoDB, ✔MySQL, ✔PostgreSQL, ✔MongoDB
+✨ Database options   ✔MongoDB, ✔MySQL, ✔PostgreSQL
          
 ✨ Preferred CMS Platform   ✔WordPress, ✔Shopify, ✔WIx, ✔Squarespace, ✔bubble.io
          
