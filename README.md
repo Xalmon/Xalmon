@@ -110,8 +110,20 @@
       <br>PostgreSQL
     </td>
   <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=android" width="48" height="48" alt="Android" />
-      <br>Android
+        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+      <br>Postman
+    </td>
+  <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=intelij" width="48" height="48" alt="InteliJ" />
+      <br>InteliJ
+    </td>
+  <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+      <br>Java
+    </td>
+  <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=discord" width="48" height="48" alt="Discord" />
+      <br>Discord
     </td>
  </tr>
 </table>
