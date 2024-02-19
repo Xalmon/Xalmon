@@ -4,7 +4,9 @@
 - 👀 I’m interested in software development, artificial intelligence, and data science.<br/>
 - 🌱 I’m currently learning React.js, improving my skills in Django a Python Framework, SpringBoot, and Node js.<br/>
 - 💞️ I’m looking to collaborate on open-source projects related to Mobile or web development.<br/>
-- 📫 You can reach me via email at xalmonoyefule@gmail.com or connect with me on LinkedIn <a href="https://www.linkedin.com/in/solomon-oyefule-1a09a3297/">here</a>
+📫 You can reach me via email at <a href="mailto:xalmonoyefule@gmail.com">xalmonoyefule@gmail.com</a> or connect with me on LinkedIn <a href="https://www.linkedin.com/in/solomon-oyefule-1a09a3297/">here</a> 
+<img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" />
+
 <br/>
 - 😄 Pronouns: He/Him<br/>
 - ⚡ Fun fact: I love to travel and explore new cultures, I read for recreation and I love Animation too.<br/>
@@ -87,7 +89,7 @@
       <br>HTML5
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
       <br>CSS
     </td>
     <td align="center" width="96">
@@ -95,7 +97,7 @@
       <br>IntelliJ
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="vscode" />
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="Vscode" />
       <br>Vscode
     </td>
     <td align="center"  width="96">
