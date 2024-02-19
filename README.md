@@ -114,7 +114,7 @@
       <br>Postman
     </td>
   <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=intelij" width="48" height="48" alt="InteliJ" />
+        <img src="https://skillicons.dev/icons?i=intelij" width="48" height="48" alt="IntelliJ" />
       <br>InteliJ
     </td>
   <td align="center" width="96">
