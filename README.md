@@ -62,8 +62,8 @@
       <br>SQLite
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="sqlite" />
-      <br>Sqlite
+        <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="spring" />
+      <br>Spring
     </td>
   </tr>
   <tr>
