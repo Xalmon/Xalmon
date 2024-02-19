@@ -150,7 +150,7 @@
 <!--<a href="https://rextester.com/l/python3_online_compiler"><img src="./assets/colored.png"  width="100%" alt="python3_online_compiler"/></a>-->
 
 
-<p align="center">
+<!--<p align="center">
 <a href="https://wakatime.com/@Goblin8888"><img src="https://wakatime.com/badge/user/8cc8aa38-4041-409b-9d27-a85e5b897ad4.svg?style=social" alt="wakatime"></a>
 <a href="https://github.com/Xalmon?tab=following"><img src="https://img.shields.io/github/stars/Xalmon?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars%20in%20all%20repo&logoColor=red&style=social" alt="GitHub User's stars"></a>
 <a href="https://github.com/Xalmon?tab=followers"><img src="https://img.shields.io/github/followers/Xalmon?&logoColor=red&style=social" alt="GitHub followers"></a>
