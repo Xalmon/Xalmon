@@ -57,6 +57,14 @@
         <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
       <br>C#
     </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" />
+      <br>SQLite
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="sqlite" />
+      <br>Sqlite
+    </td>
   </tr>
   <tr>
   <td align="center" width="96">
@@ -97,10 +105,6 @@
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="figma" />
       <br>Figma
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="sqlite" />
-      <br>Sqlite
     </td>
   </tr>
  <tr>
