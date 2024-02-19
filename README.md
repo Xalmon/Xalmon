@@ -165,7 +165,7 @@
 # Reach out to me #
 <a href="mailto:xalmonoyefule@gmail.com"><img src="./assets/gmail.png" alt="Gmail" height="50" title="Send mail"></a>
 <a href="https://t.me/princegoblintech"><img src="./assets/telegram.webp" alt="Telegram" height="50" title="Send message"></a>
-<a href="https://github.com/OldCodersClub"><img src="./assets/oldcodersclub.png" alt="OldCodersClub" height="50" title="Olde Coders"></a>
+<!--<a href="https://github.com/OldCodersClub"><img src="./assets/oldcodersclub.png" alt="OldCodersClub" height="50" title="Olde Coders"></a>
 <a href="https://github.com/DroidDump"><img src="./assets/droiddump.png" alt="Droid Dump" height="50" title="Android projects"></a>
 <a href="https://github.com/LessonDump"><img src="./assets/lessondump.png" alt="LessonDump" height="50" title="Lesson Dump"></a>
 
@@ -188,7 +188,7 @@ xalmonoyefule@gmail.com
     <!--- [✍️ Random Dev Quote](#️-random-dev-quote)-->
     - [🔝 Top Contributed Repo](#-top-contributed-repo)
     - [😂 Random Dev Meme](#-random-dev-meme)
-- [Do you want to see my past work?](#do-you-want-to-see-my-past-work)
+<!-- [Do you want to see my past work?](#do-you-want-to-see-my-past-work)
 
     </td>
     <td>    
@@ -196,9 +196,9 @@ xalmonoyefule@gmail.com
       https://trademarktoday-nextjs.vercel.app <br/>
       https://trademarktoday-nextjs-rbxk.vercel.app
     </td>
-  </tr>
+<!--  </tr>
 </table>
-
+-->
 
 # Welcome!
   
@@ -251,7 +251,7 @@ xalmonoyefule@gmail.com
 ## Rapidfire  
 <table><tr><td valign="top" width="100%">
 
-- 🔭 I’m currently working on [Business Website Deveopment](https://github.com/Xalmon)  
+- 🔭 I’m currently working on [A Game](https://github.com/Xalmon/sologames)  or [Demo](https://sologames.tiiny.site) and [Andriod Apk](https://www.webintoapp.com/store/233573)
   
 
 - 🌱 I’m currently building business websites using Next.js, React, CSS.  
