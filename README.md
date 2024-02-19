@@ -28,8 +28,8 @@
       <br>React
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/codepen-icon.svg" alt="icon" width="65" height="65" />
-      <br>Codepen
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+      <br>Java
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -116,10 +116,10 @@
   <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
       <br>Postman
-    </td>
+  </td>
   <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=intellij" width="48" height="48" alt="IntelliJ" />
-      <br>IntelliJ
+        <img src="https://skillicons.dev/icons?i=codepen" width="48" height="48" alt="codepen" />
+      <br>Codepen
     </td>
   <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
