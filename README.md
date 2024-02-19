@@ -138,7 +138,7 @@
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aleksey-Voko&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </a>
 </p>
-<!-- activity graph heroku-app end -->
+ activity graph heroku-app end -->
 
 
 <!--<p align="center">
@@ -188,18 +188,17 @@ xalmonoyefule@gmail.com
     - [🏆 GitHub Trophies](#-github-trophies)
     <!--- [✍️ Random Dev Quote](#️-random-dev-quote)-->
     - [🔝 Top Contributed Repo](#-top-contributed-repo)
-    - [😂 Random Dev Meme](#-random-dev-meme)
-<!-- [Do you want to see my past work?](#do-you-want-to-see-my-past-work)
+    - [😂 Random Dev Meme](#-random-dev-meme)-->
+ <!--[Do you want to see my past work?](#do-you-want-to-see-my-past-work)
 
     </td>
     <td>    
-      <!--<a href="http://au-portfolio.great-site.net"><img src="https://github.com/seniorcoder72/dynamic-post-nextjs/blob/master/public/profile-logo.png"/></a>-->
+      <!--<a href="http://au-portfolio.great-site.net"><img src="https://github.com/seniorcoder72/dynamic-post-nextjs/blob/master/public/profile-logo.png"/></a>
       https://trademarktoday-nextjs.vercel.app <br/>
       https://trademarktoday-nextjs-rbxk.vercel.app
     </td>
-<!--  </tr>
-</table>
--->
+  </tr>
+</table>-->
 
 # Welcome!
   
