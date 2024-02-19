@@ -110,8 +110,8 @@
       <br>PostgreSQL
     </td>
   <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=andriod" width="48" height="48" alt="PostgreSQL" />
-      <br>Andriod
+        <img src="https://skillicons.dev/icons?i=android" width="48" height="48" alt="Android" />
+      <br>Android
     </td>
  </tr>
 </table>
@@ -243,7 +243,7 @@ xalmonoyefule@gmail.com
 ## Rapidfire  
 <table><tr><td valign="top" width="100%">
 
-- 🔭 I’m currently working on [A Game](https://github.com/Xalmon/sologames)  or [Demo](https://sologames.tiiny.site) and [Andriod Apk](https://www.webintoapp.com/store/233573)
+- 🔭 I’m currently working on [A Game](https://github.com/Xalmon/sologames)  or [Demo](https://sologames.tiiny.site) and [Android Apk](https://www.webintoapp.com/store/233573)
   
 
 - 🌱 I’m currently building business websites using Next.js, React, CSS.  
