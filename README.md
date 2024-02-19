@@ -86,6 +86,10 @@
         <img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="idea" />
       <br>IntelliJ
     </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="vscode" />
+      <br>Vscode
+    </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
       <br>HTML5
@@ -93,6 +97,10 @@
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="figma" />
       <br>Figma
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="sqlite" />
+      <br>Sqlite
     </td>
   </tr>
  <tr>
