@@ -280,7 +280,7 @@ xalmonoyefule@gmail.com
 ## Rapidfire  
 <table><tr><td valign="top" width="100%">
 
-- 🔭 I’m currently working on [A Game]((https://xalmon.github.io/Classic-Chess/))  or [Demo](https://sologames.tiiny.site) and [Android Apk](https://www.webintoapp.com/store/233573)
+- 🔭 I’m currently working on [A Game](https://xalmon.github.io/Classic-Chess/)  or [Demo](https://sologames.tiiny.site) and [Android Apk](https://www.webintoapp.com/store/233573)
   
 
 - 🌱 I’m currently building business websites using Next.js, React, CSS.  
