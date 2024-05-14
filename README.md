@@ -280,7 +280,7 @@ xalmonoyefule@gmail.com
 ## Rapidfire  
 <table><tr><td valign="top" width="100%">
 
-- 🔭 I’m currently working on [A Game]([https://github.com/Xalmon/sologames](https://xalmon.github.io/Classic-Chess/))  or [Demo](https://sologames.tiiny.site) and [Android Apk](https://www.webintoapp.com/store/233573)
+- 🔭 I’m currently working on [A Game]((https://xalmon.github.io/Classic-Chess/))  or [Demo](https://sologames.tiiny.site) and [Android Apk](https://www.webintoapp.com/store/233573)
   
 
 - 🌱 I’m currently building business websites using Next.js, React, CSS.  
@@ -362,14 +362,14 @@ xalmonoyefule@gmail.com
 <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="25" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="25" /></a>  
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="25" /></a>  
-<a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="25" /></a> -->
+<a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="25" /></a> 
 </div>  
 
-<br/>  
+<!--<br/>--> 
 
 <!--# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=seniorcoder72&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=seniorcoder72&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=seniorcoder72&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>-->
+<!--![](https://github-readme-streak-stats.herokuapp.com/?user=seniorcoder72&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=seniorcoder72&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🏆 GitHub Trophies
