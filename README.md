@@ -170,7 +170,7 @@
 </p>
 
 
-<!--<a href="https://rextester.com/l/kotlin_online_compiler"><img src="./assets/colored.png"  width="100%" alt="kotlin_online_compiler"/></a>-->
+<a href="https://rextester.com/l/kotlin_online_compiler"><img src="./assets/colored.png"  width="100%" alt="kotlin_online_compiler"/></a>
 
 
 <!-- activity graph heroku-app start -->
