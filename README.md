@@ -202,7 +202,7 @@
 <a href="https://gist.github.com/Xalmon"><img src="https://profile-counter.glitch.me/{Xalmon}/count.svg" alt="Xalmon :: Visitor's Count" /></a>
 </p>
 
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
+<!--<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">-->
 
 <!--# Reach out to me #
 <a href="mailto:xalmonoyefule@gmail.com"><img src="./assets/gmail.png" alt="Gmail" height="50" title="Send mail"></a>
