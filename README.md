@@ -153,10 +153,8 @@
  </tr>
 </table>
 <br><br>
-
-
+  
 </div>
-
 
 <p align="center">
 
@@ -169,10 +167,7 @@
 
 </p>
 
-
 <!--<a href="https://rextester.com/l/kotlin_online_compiler"><img src="./assets/colored.png"  width="100%" alt="kotlin_online_compiler"/></a>-->
-
-
 <!-- activity graph heroku-app start -->
 <!--<p align="center">
     <a href="https://wakatime.com/@Goblin8888">
@@ -187,16 +182,13 @@
 <a href="https://github.com/Xalmon?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=Aleksey-Voko&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@Xalmon's trophy stats"/></a>
 </p>-->
 
-
 <!--<a href="https://rextester.com/l/python3_online_compiler"><img src="./assets/colored.png"  width="100%" alt="python3_online_compiler"/></a>-->
-
 
 <!--<p align="center">
 <a href="https://wakatime.com/@Goblin8888"><img src="https://wakatime.com/badge/user/8cc8aa38-4041-409b-9d27-a85e5b897ad4.svg?style=social" alt="wakatime"></a>
 <a href="https://github.com/Xalmon?tab=following"><img src="https://img.shields.io/github/stars/Xalmon?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars%20in%20all%20repo&logoColor=red&style=social" alt="GitHub User's stars"></a>
 <a href="https://github.com/Xalmon?tab=followers"><img src="https://img.shields.io/github/followers/Xalmon?&logoColor=red&style=social" alt="GitHub followers"></a>
 </p>-->
-
 
 <p align="center">
 <a href="https://gist.github.com/Xalmon"><img src="https://profile-counter.glitch.me/{Xalmon}/count.svg" alt="Xalmon :: Visitor's Count" /></a>
@@ -210,7 +202,6 @@
 <!--<a href="https://github.com/OldCodersClub"><img src="./assets/oldcodersclub.png" alt="OldCodersClub" height="50" title="Olde Coders"></a>
 <a href="https://github.com/DroidDump"><img src="./assets/droiddump.png" alt="Droid Dump" height="50" title="Android projects"></a>
 <a href="https://github.com/LessonDump"><img src="./assets/lessondump.png" alt="LessonDump" height="50" title="Lesson Dump"></a>-->
-
 
 <!--To comtact me.
 xalmonoyefule@gmail.com
@@ -231,13 +222,10 @@ xalmonoyefule@gmail.com
 
 # Welcome!
   
-
 <a href="http://au-portfolio.great-site.net" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
   
-
-
 
 ## My personal values and work ethic
 ✨ I want to build strong relationships with my clients.
@@ -268,34 +256,26 @@ xalmonoyefule@gmail.com
          
 ✨ Payment gateway integration  ✔Stripe, ✔PayPal, ✔Paystack, ✔Interswish
         
-
-
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)    
 
 <br/>  
 
-
 ## Rapidfire  
 <table><tr><td valign="top" width="100%">
 
 - 🔭 I’m currently working on [A Game](https://xalmon.github.io/Classic-Chess/)  or [Demo](https://sologames.tiiny.site) and [Android Apk](https://www.webintoapp.com/store/233573)
   
-
 - 🌱 I’m currently building business websites using Next.js, React, CSS.  
   
-
 <!--- ❓ Ask me about anything related to MERN stack and related technologies--> 
   
-
 - ⚡ Fun fact: I love to travel and explore new cultures, I read for recreation and I love Animation too.   
-
 
 </td></tr></table>  
 
 <br/>  
-
 
 ## Languages and Tools  
 <div align="center">  
@@ -380,8 +360,6 @@ xalmonoyefule@gmail.com
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=seniorcoder72&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
 
  <br/>  
 
