@@ -8,7 +8,7 @@
 or connect with me on LinkedIn
 <a href="https://linkedin.com/in/solomon-oyefule"><img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" /></a>
 or WhatsApp
-<a href="https://wa.me/+2349096271973"><img src="https://skillicons.dev/icons?i=whatsapp" width="48" height="48" alt="WhatsApp" /></a>
+<a href="https://wa.me/+2349096271973"><img src="https://fontawesome.com/icons/whatsapp-square?style=brands" width="48" height="48" alt="WhatsApp" /></a>
 
 
 <br/>
