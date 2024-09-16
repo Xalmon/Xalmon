@@ -4,14 +4,23 @@
 - 👀 I’m interested in software development, artificial intelligence, and data science.<br/>
 - 🌱 I’m currently learning React.js, improving my skills in Django a Python Framework, SpringBoot, and Node js.<br/>
 - 💞️ I’m looking to collaborate on open-source projects related to Mobile or web development.<br/>
-📫 You can reach me via email at <a href="mailto:xalmonoyefule@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Gmail" /></a>
-or connect with me on LinkedIn
-<a href="https://linkedin.com/in/solomon-oyefule"><img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" /></a>
-<!--or WhatsApp
-<a href="https://wa.me/+2349096271973"><img src="https://fontawesome.com/icons/whatsapp-square?style=brands" width="48" height="48" alt="WhatsApp" /></a>
--->
-
-<br/>
+-📫 You can reach me via <br/>
+<p style="text-align: center;">
+  <strong>Email</strong> &nbsp;&nbsp;&nbsp;&nbsp; <strong>LinkedIn</strong> &nbsp;&nbsp;&nbsp;&nbsp; <strong>WhatsApp</strong><br/>
+  
+  <a href="mailto:xalmonoyefule@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="30" height="40" alt="Gmail" />
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <a href="https://linkedin.com/in/solomon-oyefule">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="30" height="40" alt="LinkedIn" />
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <a href="https://wa.me/+2349096271973">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" width="30" height="40" alt="WhatsApp" />
+  </a><br/>
+  - 🔭 I’m currently working on [A Game](https://xalmon.github.io/Classic-Chess/)  or [Demo](https://sologames.tiiny.site) and [Android Apk](https://www.webintoapp.com/store/233573)
+  <br/>
 - 😄 Pronouns: He/Him<br/>
 - ⚡ Fun fact: I love to travel and explore new cultures, I read for recreation and I love Animation too.<br/>
 </div>
@@ -171,6 +180,7 @@ or connect with me on LinkedIn
 
 <p align="center">
 <a href="https://gist.github.com/Xalmon"><img src="https://profile-counter.glitch.me/{Xalmon}/count.svg" alt="Xalmon :: Visitor's Count" /></a>
+<img align="center" width="45%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xalmon&hide_progress=true&theme=react&layout=compact&langs_count=16"/>
 </p>
 
 <!--
@@ -215,23 +225,11 @@ or connect with me on LinkedIn
 ![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)    
 
 <br/>  
-
-## Rapidfire  
-<table><tr><td valign="top" width="100%">
-
-- 🔭 I’m currently working on [A Game](https://xalmon.github.io/Classic-Chess/)  or [Demo](https://sologames.tiiny.site) and [Android Apk](https://www.webintoapp.com/store/233573)
   
-- 🌱 I’m currently building business websites using Next.js, React, CSS.  
-  
-- ⚡ Fun fact: I love to travel and explore new cultures, I read for recreation and I love Animation too.   
 
-</td></tr></table>  
-
-<br/>  
-
-## Languages and Tools  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
+<!--## Languages and Tools  
+<div align="center"> -->  
+<!-- <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
@@ -280,6 +278,6 @@ or connect with me on LinkedIn
 <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="25" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="25" /></a>  
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="25" /></a>  
-<a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="25" /></a> 
-</div>  
+<a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="25" /></a>  -->
+<!-- </div>  -->
  
