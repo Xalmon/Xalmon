@@ -105,8 +105,8 @@ or connect with me on LinkedIn
       <br>Vscode
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="Azure" />
+      <br>Azure
     </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="figma" />
@@ -128,8 +128,8 @@ or connect with me on LinkedIn
       <br>PHP
     </td>
             <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
-      <br>VsCode
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="Gcp" />
+      <br>Gcp
     </td>
               <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
