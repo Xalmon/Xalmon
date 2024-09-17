@@ -1,28 +1,29 @@
 # Hi! 👋 I’m @Xalmon #
+
 <div>
 <br/>
 - 👀 I’m interested in software development, artificial intelligence, and data science.<br/>
-- 🌱 I’m currently learning React.js, improving my skills in Django a Python Framework, SpringBoot, and Node js.<br/>
-- 💞️ I’m looking to collaborate on open-source projects related to Mobile or web development.<br/>
--📫 You can reach me via <br/>
+- 🌱 I’m currently learning React.js, improving my skills in Django (a Python Framework), Spring Boot, and Node.js.<br/>
+- 💞️ I’m looking to collaborate on open-source projects related to mobile or web development.<br/>
+- 📫 You can reach me via:<br/>
 <p style="text-align: center;">
   <strong>Email</strong> &nbsp;&nbsp;&nbsp;&nbsp; <strong>LinkedIn</strong> &nbsp;&nbsp;&nbsp;&nbsp; <strong>WhatsApp</strong><br/>
-  
   <a href="mailto:xalmonoyefule@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="30" height="40" alt="Gmail" />
   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  
   <a href="https://linkedin.com/in/solomon-oyefule">
     <img src="https://skillicons.dev/icons?i=linkedin" width="30" height="40" alt="LinkedIn" />
   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  
   <a href="https://wa.me/+2349096271973">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" width="30" height="40" alt="WhatsApp" />
-  </a><br/>
-  - 🔭 I’m currently working on [A Game](https://xalmon.github.io/Classic-Chess/)  or [Demo](https://sologames.tiiny.site) and [Android Apk](https://www.webintoapp.com/store/233573)
-  <br/>
+  </a>
+</p>
+<div>
+  - 🔭 I’m currently working on [A Game](https://xalmon.github.io/Classic-Chess/), [Demo](https://sologames.tiiny.site), and [Android Apk](https://www.webintoapp.com/store/233573)
+</div>
+<br/>
 - 😄 Pronouns: He/Him<br/>
-- ⚡ Fun fact: I love to travel and explore new cultures, I read for recreation and I love Animation too.<br/>
+- ⚡ Fun fact: I love to travel and explore new cultures, I read for recreation, and I love animation too.<br/>
 </div>
 
 <!--# Main Skills #
