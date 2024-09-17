@@ -1,8 +1,8 @@
-# Hi! 👋 I’m @Xalmon #
+# Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" style="display: inline-block;"> I’m @Xalmon #
 
 <div>
 <br/>
-- 👀 I’m interested in software development, artificial intelligence, and data science.<br/>
+- 👀 I’m interested in software development, artificial intelligence, and Cloud Engineering.<br/>
 - 🌱 I’m currently learning React.js, improving my skills in Django (a Python Framework), Spring Boot, and Node.js.<br/>
 - 💞️ I’m looking to collaborate on open-source projects related to mobile or web development.<br/>
 - 📫 You can reach me via:<br/>
@@ -19,7 +19,7 @@
   </a>
 </p>
 <div>
-  - 🔭 I’m currently working on [A Game](https://xalmon.github.io/Classic-Chess/), [Demo](https://sologames.tiiny.site), and [Android Apk](https://www.webintoapp.com/store/233573)
+  - 🔭 I’m currently working on <a href="https://xalmon.github.io/Classic-Chess/"><strong>[A Game]</strong></a>, <a href="https://sologames.tiiny.site"><strong>[DEMO]</strong></a>, and an <a href=https://www.webintoapp.com/store/233573>[Android Apk]</a>
 </div>
 <br/>
 - 😄 Pronouns: He/Him<br/>
