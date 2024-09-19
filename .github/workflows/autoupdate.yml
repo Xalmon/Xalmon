@@ -2,7 +2,13 @@ name: Test Scheduled Push
 
 on:
   schedule:
-    - cron: '20 2 * * *'
+    - cron: '0 0 * * *'   # Runs at 12:00 AM
+    - cron: '0 10 * * *'  # Runs at 12:00 PM (noon)
+    - cron: '0 12 * * *'  # Runs at 10:00 PM
+    - cron: '0 23 * * *'  # Runs at 11:00 PM
+
+permissions:
+  contents: write
 
 jobs:
   update-file:
@@ -21,6 +27,7 @@ jobs:
           echo "This is a test update at $(date)" >> README.md
 
       - name: Commit and Push changes
+        if: github.actor != 'github-actions[bot]'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
