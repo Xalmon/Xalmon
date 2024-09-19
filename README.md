@@ -3,7 +3,7 @@
 <div>
 <br/>
 - 👀 I’m interested in software development, artificial intelligence, and Cloud Engineering.<br/>
-- 🌱 I’m currently learning React.js, improving my skills in Django (a Python Framework), Spring Boot, and Node.js.<br/>
+- 🌱 I’m currently learning React.js, improving my skills in Django, Spring Boot, and Node.js.<br/>
 - 💞️ I’m looking to collaborate on open-source projects related to mobile or web development.<br/>
 - 📫 You can reach me via:<br/>
 <p style="text-align: center;">
