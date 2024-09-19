@@ -1,34 +1,30 @@
-name: Update README
+name: Test Scheduled Push
 
 on:
-  push:
-    branches:
-      - main
-  workflow_dispatch: 
   schedule:
-    - cron: '0 0 * * *'
-
-permissions:
-  contents: write
+    - cron: '20 2 * * *'
 
 jobs:
-  update-readme:
+  update-file:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Update README file
-        run: |
-          echo "## Updated Section" >> README.md
-          echo "This section was added by GitHub Actions." >> README.md
-
-      - name: Commit changes
+      - name: Configure Git
         run: |
           git config --global user.name 'github-actions'
           git config --global user.email 'actions@github.com'
-          git add README.md
-          git commit -m 'Update README with new content'
-          git push origin main
+
+      - name: Make changes
+        run: |
+          echo "This is a test update at $(date)" >> README.md
+
+      - name: Commit and Push changes
         env:
-          GITHUB_TOKEN: ${{ secrets.MYGITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git pull origin main
+          git add README.md
+          git commit -m "Update README with new content at $(date)"
+          git push origin main
