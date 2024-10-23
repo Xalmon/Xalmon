@@ -1,4 +1,4 @@
-# Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" style="display: inline-block;"> I’m @Xalmon #
+# Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" style="display: inline-block;"> I’m Xalmon #
 
 <div>
 <br/>
@@ -7,15 +7,18 @@
 - 💞️ I’m looking to collaborate on open-source projects related to mobile or web development.<br/>
 - 📫 You can reach me via:<br/>
 <p style="text-align: center;">
-  <strong>Email</strong> &nbsp;&nbsp;&nbsp;&nbsp; <strong>LinkedIn</strong> &nbsp;&nbsp;&nbsp;&nbsp; <strong>WhatsApp</strong><br/>
+  <strong>Email</strong> &nbsp;&nbsp;&nbsp;&nbsp; <strong>LinkedIn</strong> &nbsp;&nbsp;&nbsp;&nbsp; <strong>WhatsApp</strong>&nbsp;&nbsp;&nbsp;&nbsp;<strong>MyPage</strong><br/>
   <a href="mailto:xalmonoyefule@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="30" height="40" alt="Gmail" />
   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/solomon-oyefule">
     <img src="https://skillicons.dev/icons?i=linkedin" width="30" height="40" alt="LinkedIn" />
-  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://wa.me/+2349096271973">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" width="30" height="40" alt="WhatsApp" />
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://solomon-oyefule.onrender.com" target="_blank">
+      <img src="https://raw.githubusercontent.com/xalmon/xalmon/master/image/image_2024-10-23_104018106.png" width="30" height="40" alt="WhatsApp" />
   </a>
 </p>
 <div>
