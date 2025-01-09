@@ -17,7 +17,7 @@
   <a href="https://wa.me/+2349096271973">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" width="30" height="40" alt="WhatsApp" />
   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://solomon-oyefule.onrender.com" target="_blank">
+  <a href="https://xalmon.github.io/SOLOMON-OYEFULE/" target="_blank">
       <img src="https://raw.githubusercontent.com/xalmon/xalmon/master/image/image_2024-10-23_104018106.png" width="30" height="40" alt="WhatsApp" />
   </a>
 </p>
