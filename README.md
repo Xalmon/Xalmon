@@ -3,26 +3,30 @@
 <div>
 <br/>
 - 👀 I’m interested in software development, artificial intelligence, and Cloud Engineering.<br/>
-- 🌱 I’m currently learning React.js, improving my skills in Django, Spring Boot, and Node.js.<br/>
-- 💞️ I’m looking to collaborate on open-source projects related to mobile or web development.<br/>
+- 🌱 I’m currently learning Kubernetes, improving my skills in AWS, GCP, and Terraform.<br/>
+- 💞️ I’m looking to collaborate on deployments and open-source projects related to mobile or web development.<br/>
 - 📫 You can reach me via:<br/>
 <p style="text-align: center;">
-  <strong>Email</strong> &nbsp;&nbsp;&nbsp;&nbsp; <strong>LinkedIn</strong> &nbsp;&nbsp;&nbsp;&nbsp; <strong>WhatsApp</strong>&nbsp;&nbsp;&nbsp;&nbsp;<strong>MyPage</strong><br/>
+  <strong>Email</strong> &nbsp;
+  <strong>LinkedIn</strong> &nbsp;
+  <strong>WhatsApp</strong>
+</p>
+<p style="text-align: center;">
   <a href="mailto:xalmonoyefule@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="30" height="40" alt="Gmail" />
-  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://linkedin.com/in/solomon-oyefule">
     <img src="https://skillicons.dev/icons?i=linkedin" width="30" height="40" alt="LinkedIn" />
-  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  
   <a href="https://wa.me/+2349096271973">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" width="30" height="40" alt="WhatsApp" />
-  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://xalmon.github.io/SOLOMON-OYEFULE/" target="_blank">
-      <img src="https://raw.githubusercontent.com/xalmon/xalmon/master/image/image_2024-10-23_104018106.png" width="30" height="40" alt="WhatsApp" />
   </a>
 </p>
+
 <div>
-  - 🔭 I’m currently working on <a href="https://xalmon.github.io/Classic-Chess/"><strong>[A Game]</strong></a>, <a href="https://sologames.tiiny.site"><strong>[DEMO]</strong></a>, and an <a href=https://www.webintoapp.com/store/233573>[Android Apk]</a>
+  - 🔭 I’m currently working on <a href="https://xalmon.github.io/Classic-Chess/"><strong>[A Game]</strong></a>, <a href="https://sologames.tiiny.site"><strong>[DEMO]</strong></a>, and an <a href="https://xalmon.github.io/SOLOMON-OYEFULE/">[My Domain]</a>
 </div>
 <br/>
 - 😄 Pronouns: He/Him<br/>
